@@ -46,3 +46,6 @@ build/
 
 ### Scala ###
 .bsp/
+.bloop/
+.metals/
+project/
